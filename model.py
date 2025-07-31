@@ -1,4 +1,4 @@
-# will be released soom
+#other module will be released soon
 
 class Block(nn.Module):
     def __init__(self, dim, n_heads=16, mlp_ratio=4.0, qkv_bias=True, p=0., attn_p=0., cross=False):
